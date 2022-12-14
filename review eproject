@@ -1,0 +1,32 @@
+thiết lập môi trường
+	quản lý dự án
+		git
+		tạo dự án
+		add:tranvandiep.it@gmail.com
+		trello/asana (optional)
+
+phân tích dự án
+	tìm website mẫu giống dự án
+	phân tích chức năng dự án
+		Trang chủ
+		Trang danh sách sp
+		Trang chi tiết sp
+	Thiết kế database
+		dbdiagram/draw.io gửi thầy review
+			deadline Thứ 6 16-12 gửi mail cho thầy
+			bảng, cột, kiểu dữ liệu, độ dài dữ liệu.
+			
+Code
+	Assign việc
+		Header,Footer
+		
+		
+Yêu cầu pass
+	DATABASE 4 bảng
+	Frontend 3-5 pages
+	backend tối thiểu 
+		Hiển thị danh sách phản hồi
+		hoặc
+		Danh sách sản phẩm (thêm sửa xóa hiển thị)
+	Nối back-end đổ dữ liệu sản phảm tin tức ra trang chủ
+	
